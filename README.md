@@ -1,5 +1,4 @@
 bert
-![bert.png](img\bert.png)
-
+![bert.png](img%2Fbert.png)
 gpt
-![gpt.png](img\gpt.png)
+![gpt.png](img%2Fgpt.png)
