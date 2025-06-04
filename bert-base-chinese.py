@@ -13,8 +13,8 @@ def predict_sentiment(text):
     prediction = torch.argmax(logits, dim=1).item()
     return "正面" if prediction == 1 else "负面"
 
-review = "剧情老套，充满套路和硬凹的感动。"
-delivery = "汤汁洒得到处都是，包装太随便了。"
+review = "剧情设定新颖不落俗套，每个转折都让人惊喜。"
+delivery = "这家店口味稳定，已经回购好几次了，值得信赖！"
 
 
 print(f"影评分类结果: {predict_sentiment(review)}")
