@@ -1,5 +1,5 @@
 bert
-![bert.png](img%2Fbert.png)
+![bert.png](C:\Users\11311\PycharmProjects\pythonProject2\homework6\img\bert.png)
 
 gpt
-![gpt.png](img%2Fgpt.png)
+![gpt.png](C:\Users\11311\PycharmProjects\pythonProject2\homework6\img\gpt.png)
